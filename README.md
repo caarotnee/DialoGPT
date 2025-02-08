@@ -63,7 +63,4 @@ Bạn có thể fine-tune mô hình trên tập dữ liệu hội thoại của 
 
 ---
 
-## 📩 Liên hệ
-Nếu bạn có bất kỳ câu hỏi nào, hãy tạo một **Issue** hoặc liên hệ qua:
-📧 Email: *your-email@example.com*
-🌍 GitHub: [your-username](https://github.com/your-username)
+
